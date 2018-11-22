@@ -1,0 +1,31 @@
+SF:/Users/boriphuths/ASP.NET Core/dotnetCoreTDD/TDDDemoApp/TextAnalyzer.cs
+FN:2,System.Int32 tdddemoapp.TextAnalyzer::GetTotalWordCount(System.String)
+FNDA:1,System.Int32 tdddemoapp.TextAnalyzer::GetTotalWordCount(System.String)
+DA:3,1
+DA:4,2
+DA:6,29
+DA:8,94
+DA:9,80
+DA:11,14
+DA:14,71
+DA:15,57
+DA:16,14
+DA:18,1
+DA:19,1
+BRDA:6,97,1,14
+BRDA:8,43,1,80
+BRDA:8,21,0,93
+BRDA:8,21,1,1
+BRDA:8,43,0,14
+BRDA:14,81,1,57
+BRDA:14,62,0,70
+BRDA:14,62,1,1
+BRDA:14,81,0,14
+BRDA:6,97,0,1
+LF:11
+LH:11
+BRF:10
+BRH:10
+FNF:1
+FNH:1
+end_of_record
